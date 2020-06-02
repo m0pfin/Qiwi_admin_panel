@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php-curl-class/php-curl-class": "^8.8",
+        "irazasyed/telegram-bot-sdk": "^2.0"
+    }
+}

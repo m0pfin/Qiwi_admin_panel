@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/tg_keitaro.iml" filepath="$PROJECT_DIR$/.idea/tg_keitaro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tg_qiwi.iml" filepath="$PROJECT_DIR$/.idea/tg_qiwi.iml" />
+    </modules>
+  </component>
+</project>
