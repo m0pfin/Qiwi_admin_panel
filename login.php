@@ -1,5 +1,5 @@
 <?php
-	include("includes/connect.php");
+include __DIR__ . '/includes/connect.php';
 
 	$adminemail = mysqli_real_escape_string($link, $_POST['email']);
 	$adminpass = md5($_POST['password']);
